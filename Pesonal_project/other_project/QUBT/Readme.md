@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/3f2ede55-bc02-4294-b070-fa314bb7f1d1)
 # 주식 종목 (퀀텀 컴퓨팅)의 주가 예측하기
 
-## 01.QUBT.ipynb (MonteCarlo 사용분석) 
+## [01.QUBT.ipynb (MonteCarlo 사용분석) ]([url](https://github.com/jihun-shim/My_Project/blob/main/Pesonal_project/other_project/QUBT/01.QUBT.ipynb))
 ```
 1-1 주가에 영향을 줄 수 있는 이벤트 추가
 1-2 시뮬레이션 실행 후 결과(시각화) 확인

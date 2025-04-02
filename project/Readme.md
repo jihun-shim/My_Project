@@ -1,3 +1,4 @@
+![etf](https://github.com/user-attachments/assets/84858f74-a049-42b0-874c-ebdc9353b891)
 
 # 최하위권 ETF 종목 포트폴리오 리벨런싱을 통한 수익률 향상 프로젝트
 
